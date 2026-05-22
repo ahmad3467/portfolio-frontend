@@ -81,7 +81,7 @@ function Navbar() {
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-2xl lg:text-3xl font-extrabold bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-500 bg-clip-text text-transparent tracking-wide">
-                AMHAD SALIM ABDALLA
+                AHMAD SALIM ABDALLA
               </h1>
 
               <Sparkles className="text-yellow-400 animate-pulse" size={20} />
