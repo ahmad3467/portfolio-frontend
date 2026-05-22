@@ -22,7 +22,7 @@ function Home() {
 
         {/* Description */}
         <p className="mt-8 text-lg md:text-xl text-gray-700 leading-9">
-          I am <span className="font-semibold text-gray-900">AHAD SALIM ABDALLA</span>, 
+          I am <span className="font-semibold text-gray-900">AHMAD SALIM ABDALLA</span>, 
           a Third Year student at the Eastern Africa Statistical Training Center pursuing a
           Bachelor Degree in Data Science. Passionate about
           data analytics, software development, and cloud technologies.
