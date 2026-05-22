@@ -13,7 +13,7 @@ function Footer() {
         
         {/* NAME */}
         <h2 className="text-2xl font-extrabold tracking-wide bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-500 bg-clip-text text-transparent">
-          AHAD SALIM ABDALLA
+          AHMAD SALIM ABDALLA
         </h2>
 
         {/* DESCRIPTION */}
